@@ -1,0 +1,8 @@
+Thu, 08 Oct 2015 18:45:38 +0600
+README.rdoc	Thu, 08 Oct 2015 18:45:23 +0600
+app/controllers/application_controller.rb	Thu, 08 Oct 2015 16:45:19 +0600
+app/controllers/posts_controller.rb	Thu, 08 Oct 2015 16:46:24 +0600
+app/helpers/application_helper.rb	Thu, 08 Oct 2015 16:45:19 +0600
+app/helpers/posts_helper.rb	Thu, 08 Oct 2015 16:46:24 +0600
+app/models/comment.rb	Thu, 08 Oct 2015 17:22:15 +0600
+app/models/post.rb	Thu, 08 Oct 2015 16:46:24 +0600
