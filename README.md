@@ -36,12 +36,12 @@ rails s
 == Add to Gemfile
 As per book of Instant Cucumber BDD How-to By Wayne Ye
 
-```group :test, :development do
+group :test, :development do
   gem 'cucumber-rails', :require => false
   # database_cleaner is not required, but highly recommended
   gem 'database_cleaner'
 end
-````
+
 
 == Now give few more last lines
 bundle install
